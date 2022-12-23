@@ -154,24 +154,3 @@ html{
 }
 
 /* ---------------------------линии на фоне----------------------------- */
-
-
-.hr1{
-    position: absolute;
-	border: none;
-	border-top: 1px solid rgb(229,32,33);
-    width: 500%;
-    margin: 0 -170%;
-    transform: rotate(110deg);
-    box-shadow: 0 0 10px 1px rgb(229,32,33);
-}
-
-.hr2{
-    position: absolute;
-	border: none;
-	border-top: 1px solid rgb(35,233,24);
-    width: 500%;
-    margin: 100% -70%;
-    transform: rotate(20deg);
-    box-shadow: 0 0 10px 1px rgb(35,233,24);
-}
